@@ -8,9 +8,5 @@ Also it will keep the arma3server.exe running without extened battleye installed
 GPL-3.0
 
 # Contributers:
-acidburn101
+mrpacman101
 
-# Credits:
-Seth^^
-
-Original Post: http://www.exilemod.com/topic/177-windows-start-restart-batch-file-without-bec
